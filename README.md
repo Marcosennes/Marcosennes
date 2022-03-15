@@ -1,7 +1,7 @@
 ## Olá, me chamo Marcos Victor Ennes
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor Full Stack
+- 🔭 Atualmente trabalho como Engenheiro de Software
 - 🌱 Estudando React e aprimorando meus conhecimentos em PHP / Laravel
 - 👨‍🎓 Estou há um período de concluir meu curso de graduação, Ciências da Computação, na Universidade Federal Fluminense
 
