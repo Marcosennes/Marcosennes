@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente trabalho como Engenheiro de Software
-- 🌱 Estudando React e aprimorando meus conhecimentos em PHP / Laravel
-- 👨‍🎓 Estou há um período de concluir meu curso de graduação, Ciências da Computação, na Universidade Federal Fluminense
+- 🌱 Estudando Node.js e aprimorando meus conhecimentos em PHP / Laravel
+- 👨‍🎓 Sou bacharel em Ciências da Computação formado na Universidade Federal Fluminense
 
 <div align="center">
     <a href="https://github.com/Marcosennes">
