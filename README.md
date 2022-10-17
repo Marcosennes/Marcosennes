@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Engenheiro de Software
-- 🌱 Estudando Node.js e aprimorando meus conhecimentos em PHP / Laravel
+- 🌱 Estudando Node.js, Vue.js e aprimorando meus conhecimentos em PHP / Laravel
 - 👨‍🎓 Sou bacharel em Ciências da Computação formado na Universidade Federal Fluminense
 
 <div align="center">
