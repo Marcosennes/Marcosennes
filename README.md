@@ -1,9 +1,10 @@
 ## Olá, me chamo Marcos Victor Ennes
 
 
-- 🔭 Atualmente trabalho como Engenheiro de Software
-- 🌱 Estudando Node.js, Vue.js e aprimorando meus conhecimentos em PHP / Laravel
-- 👨‍🎓 Sou bacharel em Ciências da Computação formado na Universidade Federal Fluminense
+- 💼 Atualmente atuo como Engenheiro de Software, desenvolvendo aplicações, APIs e automações
+- 🚀 Experiência com PHP, Laravel, Python, Vue.js, Docker, Kubernetes, AWS e CI/CD
+- 🔧 Atuação em Backend, DevOps, infraestrutura, integrações e troubleshooting de ambientes corporativos
+- 👨‍🎓 Bacharel em Ciência da Computação pela Universidade Federal Fluminense (UFF)
 
 <div align="center">
     <a href="https://github.com/Marcosennes">
